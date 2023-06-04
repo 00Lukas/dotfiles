@@ -3,12 +3,12 @@
 If you want to use these dotfiles, you should review the code and remove things
 you don't want or need
 
-###Installation
+### Installation
 * Backup your previous configuration (if any exists)
 
-###Neovim
+### Neovim
 Neovim dotfile is based on: [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
-#####System requirements:
+##### System requirements:
 * [Rust](https://www.rust-lang.org/tools/install)
 * [tree-sitter](https://github.com/tree-sitter/tree-sitter/blob/master/cli/README.md)
 * [ripgrep](https://github.com/BurntSushi/ripgrep)
